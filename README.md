@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm shyamkumar
 #### Data analyst/Data annotator/Frontend
-![Data analyst/Data annotator/Frontend](https://github.com/shyamkumarpeddamukkulollu/shyamkumar/blob/main/github%20banner.jpg)
+![Data analyst/Data annotator/Frontend](https://github.com/peddamukkulollushyamkumar/peddamukkulollushyamkumar/blob/main/github%20banner.jpg)
 
 👋 Hello! I'm Shyamkumar, an MCA graduate passionate about data analysis, annotation, and web development.
 
