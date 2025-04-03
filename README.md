@@ -14,7 +14,7 @@
 
 💡 Team Player & Lifelong Learner | Seeking Roles in Data Analysis & Frontend Development
 
-📧 Contact: peddamukkulollu.shyamkumar4381@gmail.com
+📧 Contact: shyamkumar4381@gmail.com
 
 Skills: EXCEL/POWER BI/PYTHON/SQL/HTML/CSS/JAVASCRPT/BOOTSTRAP
 
